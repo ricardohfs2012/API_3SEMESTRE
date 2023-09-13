@@ -39,7 +39,7 @@ Futuramente
 
 
 # Equipe
-![Equipe](https://github.com/AndreLuizRibeiro/Template/blob/main/.img/gettyimages-1380215929-612x612.jpg?raw=true)
+![Equipe](https://github.com/ricardohfs2012/API_3SEMESTRE/assets/114450758/ee642872-f0f9-459e-b2c9-bfef24c1e5bd)
 
 # Objetivo do Projeto
 Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
