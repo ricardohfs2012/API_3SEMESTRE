@@ -39,7 +39,7 @@ Futuramente
 
 
 # Equipe
-![Equipe](https://github.com/ricardohfs2012/API_3SEMESTRE/assets/114450758/ee642872-f0f9-459e-b2c9-bfef24c1e5bd)
+![Equipe](https://github.com/ricardohfs2012/API_3SEMESTRE/assets/114450758/35bf0b99-f6e5-45cc-8710-b9db34e538b0)
 
 # Objetivo do Projeto
 Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
