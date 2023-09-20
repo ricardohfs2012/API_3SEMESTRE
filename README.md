@@ -1,6 +1,6 @@
 # DATALOG CONSULTORIA LTDA
 
-Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
+Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos. Esse repositório vai trazer toda a documentação levantada no desenvolvimento do Projeto Integrador do 3° Semestre.
 
 # Índice
 
@@ -18,16 +18,16 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 # Projeto (API) 
 Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
 Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
-Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints
+Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints.
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | dd/mm/aaaa | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|01 | dd/mm/aaaa | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|02|  dd/mm/aaaa| em progresso |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|03| dd/mm/aaaa | a fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|04| dd/mm/aaaa |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
-|Feira de Soluções|dd/mm/aaaa |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|Kick Off | 06/09/2023 | concluído | [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|00| 27/09/2023 | em progresso | [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|01| 18/10/2023 | a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|02| 08/11/2023 | a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|03| 29/11/2023 | a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
+|Feira de Soluções | 12/12/2023 | a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
 
 # Micro Certificações
@@ -42,12 +42,10 @@ Futuramente
 ![Equipe](https://github.com/ricardohfs2012/API_3SEMESTRE/assets/114450758/35bf0b99-f6e5-45cc-8710-b9db34e538b0)
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
+Este projeto tem como objetivo fazer uma análise de produtividade de veículos, de otimização de distribuição e de custo de rotas de uma empresa, visando:
+* Elaborando um banco de dados em SQL;
+* Criando um dashboard em BI para visualizar indicadores;
+* Aplicar um método de transporte para otimizar a distibuição.
 
 # Funcionalidades e registros (vídeos e apresnetações) das sprints
 
@@ -60,14 +58,15 @@ Adicionar video e documentos nessa seção
 
 ## Tecnologias Utilizadas
   ### Produto 
-  > Descreva aqui a parte do MVP referente a Sprint
+  > Dashboard e banco de dados em SQL para visualização dos itens descritos em OBJETIVO.
 
  ### Tecnológias Específicas/Apoio
- > Liste aqui todas as tecnologias utilizadas para colcluir a entrega
-Exemplos: 
-- [Balanceamento de Produção](nomus.com.br/blog-industrial/balanceamento-de-linha/)
-- [Novo Perfil Profissional](https://repositorio.unesp.br/handle/11449/237929)
-- [Gestão de Projetos](https://robsoncamargo.com.br/blog/PMBOK)
+ > Tecnologias utilizadas para entrega 
+- [Power BI](nomus.com.br/blog-industrial/balanceamento-de-linha/)
+- [Banco de dados em SQL](https://repositorio.unesp.br/handle/11449/237929)
+- [Python](https://robsoncamargo.com.br/blog/PMBOK)
+- [Jira Software](https://robsoncamargo.com.br/blog/PMBOK)
+- [GitHub](https://robsoncamargo.com.br/blog/PMBOK)
   
  ### Mindset Digital
 > Liste todas as tecnologias referentes aos processos da API
