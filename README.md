@@ -8,7 +8,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Micro Certificações](#badges)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
-* [uncionalidades e registros (vídeos e apresnetações) das sprints](#uncionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
+* [Funcionalidades e registros (vídeos e apresnetações) das sprints](#uncionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
 * [Cronograma das Sprints](#Cronograma-das-Sprints)
 * [Backlog do produto](#Backlog-do-produto)
 * [Burndown](#Burndown)
@@ -47,14 +47,11 @@ Este projeto tem como objetivo fazer uma análise de produtividade de veículos,
 * Criando um dashboard em BI para visualizar indicadores;
 * Aplicar um método de transporte para otimizar a distibuição.
 
-# Funcionalidades e registros (vídeos e apresnetações) das sprints
+# Funcionalidades e registros 
 
-Apresentação das funcionalidades
-Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:
+Confira abaixo o One Drive com arquivos levantados para o Projeto
 
-Adicionar video e documentos nessa seção
-
-[![Nome do Vídeo](https://img.youtube.com/vi/pBy1zgt0XPc/0.jpg)](https://www.youtube.com/embed/pBy1zgt0XPc)
+<a href="https://fatecspgov-my.sharepoint.com/:f:/r/personal/gabriella_santos12_fatec_sp_gov_br/Documents/Projeto%20Integrador/3%20Semestre?csf=1&web=1&e=XMfikR"><img src="https://user-images.githubusercontent.com/114450758/204680162-f6940b1b-c19d-40b1-a808-de0334a9a109.png" width="100px"> </a>
 
 ## Tecnologias Utilizadas
   ### Produto 
