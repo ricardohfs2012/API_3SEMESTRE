@@ -110,40 +110,45 @@ User stories
 ![sprint backlog](https://github.com/RoqueMoura/Template/blob/main/.img/Burndown.PNG)
 
 
-## Sprint 1. Concepção
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
+## Sprint 0. Concepção do Projeto
+- [x] Coleta de perguntas do grupo;
+- [x] Criação do GitHub pessoal;
+- [x] Estruturação do GitHub;
+- [x] Entendimento da demanda do cliente;
+- [x] Atribuição das atividades para Sprint 1;
+- [x] Criação das atividades do backlog;
+- [x] Reunião do grupo.
 
+## Sprint 1. Desenvolvimento do Projeto
+- [ ] Edição da planilha para entendimento interno;
+- [ ] Atualização do site da empresa;
+- [ ] Entender a capacidade das fabricas;
+- [ ] Pesquisa/Estudo do Python;
+- [ ] Pesquisa/Estudo do SQL;
+- [ ] Criação do protótipo do dashboard;
+- [ ] Documentação para Sprint 1;
+- [ ] Regionalizar (Cluster);
+- [ ] Identificar os outputs e inputs dos dados.
 
-
-## Sprint 2. Desenvolvimento do Projeto
-- [ ] Documento passo a passo;
-- [ ] Vídeo passo a passo;
-- [ ] Treinamento com os professores;
-- [ ] Treinamento com os alunos;
-- [ ] Monitoramento e ajustes.
+            
+## Sprint 2 . Implementação
+- [ ] Criação do dashboard;
+- [ ] Estruturação/otimização de dados no python;
+- [ ] Documentação para Sprint 2;
+- [ ] Workshop interno em Python;
+- [ ] Workshop interno em Power BI;
+- [ ] Criação e modelagem do banco de dados em SQL;
+- [ ] Workshop interno do SQL.
       
-## Sprint 3 . Implementação
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
-      
-## Sprint 4. Operacionalização
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+## Sprint 3. Operacionalização
+- [ ] Documentação para Sprint 3;
+- [ ] Finalização do Dashboard;
+- [ ] Finalização de todas as atividades referente ao projeto;
+- [ ] Otimização de distribuição e de custos de rotas;
+- [ ] Estrutura de banco de dados relacional;
+- [ ] Tela de BI que mostre produtividade mensal do veiculos (relação entre outputs e inputs);
+- [ ] Tela de BI com evolução dos custos por km de cada rota, filtrando por fábricas;
+- [ ] Tela de BI com evolução dos custos por unidade transportada de cada rota, filtrando por fábricas;
 
 
 # Competências desenvolvidas
