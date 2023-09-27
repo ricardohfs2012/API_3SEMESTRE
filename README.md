@@ -59,11 +59,11 @@ Confira abaixo o One Drive com arquivos levantados para o Projeto
 
  ### Tecnológias Específicas/Apoio
  > Tecnologias utilizadas para entrega 
-- [Power BI](nomus.com.br/blog-industrial/balanceamento-de-linha/)
-- [Banco de dados em SQL](https://repositorio.unesp.br/handle/11449/237929)
-- [Python](https://robsoncamargo.com.br/blog/PMBOK)
-- [Jira Software](https://robsoncamargo.com.br/blog/PMBOK)
-- [GitHub](https://robsoncamargo.com.br/blog/PMBOK)
+- [Power BI](https://powerbi.microsoft.com/pt-br/what-is-power-bi/)
+- [Banco de dados em SQL](https://www.alura.com.br/artigos/o-que-e-sql)
+- [Python](https://site.alura.com.br/artigos/python?utm_term=&utm_campaign=%5BSearch%5D+%5BPerformance%5D+-+Dynamic+Search+Ads+-+Artigos+e+Conte%C3%BAdos&utm_source=adwords&utm_medium=ppc&hsa_acc=7964138385&hsa_cam=11384329873&hsa_grp=111087461203&hsa_ad=645853715422&hsa_src=g&hsa_tgt=dsa-843358956400&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjwpc-oBhCGARIsAH6ote_yvQoYEgSGsCgT38GSu3DXgj5JivyInLyILdMnGCJnA8wzEh240zEaAhUHEALw_wcB)
+- [Jira Software](https://www.atlassian.com/br/software/jira/guides/getting-started/who-uses-jira)
+- [GitHub](https://www.alura.com.br/artigos/o-que-e-git-github?utm_term=&utm_campaign=%5BSearch%5D+%5BPerformance%5D+-+Dynamic+Search+Ads+-+Artigos+e+Conte%C3%BAdos&utm_source=adwords&utm_medium=ppc&hsa_acc=7964138385&hsa_cam=11384329873&hsa_grp=111087461203&hsa_ad=662261334153&hsa_src=g&hsa_tgt=dsa-843358956400&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjwpc-oBhCGARIsAH6ote-YXbb7mq2tCCGns5wCi2B0nmMmnaUaHl6Oj8pY5VBqpSzglZ0PdtIaAkJ6EALw_wcB)
   
  ### Mindset Digital
 > Liste todas as tecnologias referentes aos processos da API
