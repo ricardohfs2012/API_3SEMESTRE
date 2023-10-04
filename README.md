@@ -30,14 +30,6 @@ Sprint | Previsão | Status| Histórico|
 |Feira de Soluções | 12/12/2023 | a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
 
-# Micro Certificações
-Futuramente
-
-<p align="center">
- <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
-</p>
-
-
 # Equipe
 ![Equipe](https://github.com/ricardohfs2012/API_3SEMESTRE/assets/114450758/35bf0b99-f6e5-45cc-8710-b9db34e538b0)
 
@@ -65,16 +57,6 @@ Confira abaixo o One Drive com arquivos levantados para o Projeto
 - [Jira Software](https://www.atlassian.com/br/software/jira/guides/getting-started/who-uses-jira)
 - [GitHub](https://www.alura.com.br/artigos/o-que-e-git-github?utm_term=&utm_campaign=%5BSearch%5D+%5BPerformance%5D+-+Dynamic+Search+Ads+-+Artigos+e+Conte%C3%BAdos&utm_source=adwords&utm_medium=ppc&hsa_acc=7964138385&hsa_cam=11384329873&hsa_grp=111087461203&hsa_ad=662261334153&hsa_src=g&hsa_tgt=dsa-843358956400&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjwpc-oBhCGARIsAH6ote-YXbb7mq2tCCGns5wCi2B0nmMmnaUaHl6Oj8pY5VBqpSzglZ0PdtIaAkJ6EALw_wcB)
   
- ### Mindset Digital
-> Liste todas as tecnologias referentes aos processos da API
-Exemplos: 
-- Backlog
-- [![MVP](https://img.youtube.com/vi/Ipg6Ox6qlC8/0.jpg)](https://www.youtube.com/embed/Ipg6Ox6qlC8)
-- MVP
-- [![MVP](https://img.youtube.com/vi/BYAABeMllcM/0.jpg)](https://www.youtube.com/embed/BYAABeMllcM)
-- Scrum para iniciantes
-- [![Scrum para iniciantes](https://img.youtube.com/vi/1DkmzynmRHk/0.jpg)](https://www.youtube.com/embed/1DkmzynmRHk)
-
 # Cronograma das Sprints
 
 ## Cronograma
