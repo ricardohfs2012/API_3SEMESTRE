@@ -96,15 +96,18 @@ User stories
 - [x] Reunião do grupo.
 
 ## Sprint 1. Desenvolvimento do Projeto
-- [x] Edição da planilha para entendimento interno;
+- [x] Criação do protótipo dashboard - Parte 1;
+- [x] Criação do protótipo dashboard - Parte 2;
+- [x] Identificar os erros da planilha;
+- [x] Edição da planilha em Python;
+- [x] Tratamento dos dados em Excel;
+- [x] Pesquisa/Estudo do SQL - Parte 1;
 - [x] Atualização do site da empresa;
-- [x] Entender a capacidade das fabricas;
 - [x] Pesquisa/Estudo do Python;
-- [x] Pesquisa/Estudo do SQL;
-- [x] Criação do protótipo do dashboard;
-- [x] Documentação para Sprint 1;
-- [x] Regionalizar (Cluster);
-- [x] Identificar os outputs e inputs dos dados.
+- [x] Pesquisa/Estudo do SQL - Parte 2;
+- [x] Entender a capacidade das fabricas;
+- [x] Identificar os outputs e inputs dos dados;
+- [x] Documentação para Sprint 1.
 
             
 ## Sprint 2 . Implementação
@@ -114,6 +117,7 @@ User stories
 - [ ] Workshop interno em Python;
 - [ ] Workshop interno em Power BI;
 - [ ] Criação e modelagem do banco de dados em SQL;
+- [ ] Regionalizar (Cluster);
 - [ ] Workshop interno do SQL.
       
 ## Sprint 3. Operacionalização
