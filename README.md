@@ -29,10 +29,6 @@ Sprint | Previsão | Status| Histórico|
 |03| 29/11/2023 | a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
 |Feira de Soluções | 12/12/2023 | a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
-
-# Equipe
-![Equipe](https://github.com/ricardohfs2012/API_3SEMESTRE/assets/114450758/35bf0b99-f6e5-45cc-8710-b9db34e538b0)
-
 # Objetivo do Projeto
 Este projeto tem como objetivo fazer uma análise de produtividade de veículos, de otimização de distribuição e de custo de rotas de uma empresa, visando:
 * Elaborando um banco de dados em SQL;
@@ -102,15 +98,15 @@ User stories
 - [x] Reunião do grupo.
 
 ## Sprint 1. Desenvolvimento do Projeto
-- [ ] Edição da planilha para entendimento interno;
-- [ ] Atualização do site da empresa;
-- [ ] Entender a capacidade das fabricas;
-- [ ] Pesquisa/Estudo do Python;
-- [ ] Pesquisa/Estudo do SQL;
-- [ ] Criação do protótipo do dashboard;
-- [ ] Documentação para Sprint 1;
-- [ ] Regionalizar (Cluster);
-- [ ] Identificar os outputs e inputs dos dados.
+- [x] Edição da planilha para entendimento interno;
+- [x] Atualização do site da empresa;
+- [x] Entender a capacidade das fabricas;
+- [x] Pesquisa/Estudo do Python;
+- [x] Pesquisa/Estudo do SQL;
+- [x] Criação do protótipo do dashboard;
+- [x] Documentação para Sprint 1;
+- [x] Regionalizar (Cluster);
+- [x] Identificar os outputs e inputs dos dados.
 
             
 ## Sprint 2 . Implementação
@@ -165,7 +161,10 @@ User stories
 
 </details>
 
-# Autores
+# Equipe
+![Equipe](https://github.com/ricardohfs2012/API_3SEMESTRE/assets/114450758/35bf0b99-f6e5-45cc-8710-b9db34e538b0)
+
+
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Product Owner |   Thiago Faria    |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-pereira-594683174) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Thiagopfaria/API)              |
