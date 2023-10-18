@@ -39,9 +39,6 @@ Confira abaixo o One Drive com arquivos levantados para o Projeto
 
 <a href="https://fatecspgov-my.sharepoint.com/:f:/r/personal/gabriella_santos12_fatec_sp_gov_br/Documents/Projeto%20Integrador/3%20Semestre?csf=1&web=1&e=XMfikR"><img src="https://user-images.githubusercontent.com/114450758/204680162-f6940b1b-c19d-40b1-a808-de0334a9a109.png" width="100px"> </a>
 
-Dashboard - Power BI
-
-<a href="https://app.powerbi.com/Redirect?action=openreport&context=Annotate&ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=mobile_android&groupObjectId=6018b7fb-ff4c-4333-b759-111986939149&appId=&reportObjectId=eab4ec64-2f3b-474e-a920-f36fbfd6b56f&reportPage=ReportSection&bookmarkGuid=3d5269e0-dc20-48f1-9c95-e1586ab699e8"><img src="https://github.com/ricardohfs2012/API_3SEMESTRE/assets/114450758/dd8ebec8-e264-43f2-b77e-d8ebff4a2dbc" width="100px"> </a>
 
 ## Tecnologias Utilizadas
   ### Produto 
@@ -49,7 +46,7 @@ Dashboard - Power BI
 
  ### Tecnológias Específicas/Apoio
  > Tecnologias utilizadas para entrega 
-- [Power BI](https://powerbi.microsoft.com/pt-br/what-is-power-bi/)
+- [Power BI](https://app.powerbi.com/Redirect?action=openreport&context=Annotate&ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=mobile_android&groupObjectId=6018b7fb-ff4c-4333-b759-111986939149&appId=&reportObjectId=eab4ec64-2f3b-474e-a920-f36fbfd6b56f&reportPage=ReportSection&bookmarkGuid=3d5269e0-dc20-48f1-9c95-e1586ab699e8)
 - [Banco de dados em SQL](https://www.alura.com.br/artigos/o-que-e-sql)
 - [Python](https://site.alura.com.br/artigos/python?utm_term=&utm_campaign=%5BSearch%5D+%5BPerformance%5D+-+Dynamic+Search+Ads+-+Artigos+e+Conte%C3%BAdos&utm_source=adwords&utm_medium=ppc&hsa_acc=7964138385&hsa_cam=11384329873&hsa_grp=111087461203&hsa_ad=645853715422&hsa_src=g&hsa_tgt=dsa-843358956400&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjwpc-oBhCGARIsAH6ote_yvQoYEgSGsCgT38GSu3DXgj5JivyInLyILdMnGCJnA8wzEh240zEaAhUHEALw_wcB)
 - [Jira Software](https://www.atlassian.com/br/software/jira/guides/getting-started/who-uses-jira)
