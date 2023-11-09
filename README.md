@@ -23,7 +23,7 @@ Sprint | Previsão | Status| Histórico|
 |Kick Off | 06/09/2023 | concluído | [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |00| 27/09/2023 | concluído | [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |01| 18/10/2023 | concluído |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|02| 08/11/2023 | a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|02| 08/11/2023 | concluído |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |03| 29/11/2023 | a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
 |Feira de Soluções | 12/12/2023 | a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
@@ -85,14 +85,18 @@ User stories
 
 # Burndown
 
-## Sprint 1
+## Sprint 0
 
 ![sprint backlog](https://github.com/ricardohfs2012/API_3SEMESTRE/assets/114450758/3810e770-ecae-4895-9723-f1b3250d2f36)
 
 
-## Sprint 2
+## Sprint 1
 
 ![sprint backlog](https://github.com/ricardohfs2012/API_3SEMESTRE/assets/114450758/70e0717d-a6aa-4c20-ab23-c3831361e5b4)
+
+
+## Sprint 2
+![sprint backlog](https://github.com/ricardohfs2012/API_3SEMESTRE/assets/114450758/09a41faf-5e6b-43f8-ac25-39f5055be3c1)
 
 
 ## Sprint 0. Concepção do Projeto
@@ -120,14 +124,14 @@ User stories
 
             
 ## Sprint 2 . Implementação
-- [ ] Criação do dashboard;
-- [ ] Estruturação/otimização de dados no python;
-- [ ] Documentação para Sprint 2;
-- [ ] Workshop interno em Python;
-- [ ] Workshop interno em Power BI;
-- [ ] Criação e modelagem do banco de dados em SQL;
-- [ ] Regionalizar (Cluster);
-- [ ] Workshop interno do SQL.
+- [x] Criação do dashboard;
+- [x] Estruturação/otimização de dados no python;
+- [x] Documentação para Sprint 2;
+- [x] Workshop interno em Python;
+- [x] Workshop interno em Power BI;
+- [x] Criação e modelagem do banco de dados em SQL;
+- [x] Regionalizar (Cluster);
+- [x] Workshop interno do SQL.
       
 ## Sprint 3. Operacionalização
 - [ ] Documentação para Sprint 3;
