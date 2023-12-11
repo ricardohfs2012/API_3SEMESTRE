@@ -87,16 +87,17 @@ User stories
 
 ## Sprint 0
 
-![sprint backlog](https://github.com/ricardohfs2012/API_3SEMESTRE/assets/114450758/3810e770-ecae-4895-9723-f1b3250d2f36)
-
+![sprint backlog](https://github.com/ricardohfs2012/API_3SEMESTRE/assets/114450758/64ead922-1d4b-498c-9474-5f07a0d3e546)
 
 ## Sprint 1
 
-![sprint backlog](https://github.com/ricardohfs2012/API_3SEMESTRE/assets/114450758/70e0717d-a6aa-4c20-ab23-c3831361e5b4)
-
+![sprint backlog](https://github.com/ricardohfs2012/API_3SEMESTRE/assets/114450758/6f8c700a-a617-4dc5-9ad7-0502194093b9))
 
 ## Sprint 2
 ![sprint backlog](https://github.com/ricardohfs2012/API_3SEMESTRE/assets/114450758/09a41faf-5e6b-43f8-ac25-39f5055be3c1)
+
+## Sprint 3
+![sprint backlog](https://github.com/ricardohfs2012/API_3SEMESTRE/assets/114450758/eb5c267c-da7e-4fed-b03a-c4a503f47fda)
 
 
 ## Sprint 0. Concepção do Projeto
@@ -134,14 +135,14 @@ User stories
 - [x] Workshop interno do SQL.
       
 ## Sprint 3. Operacionalização
-- [ ] Documentação para Sprint 3;
-- [ ] Finalização do Dashboard;
-- [ ] Finalização de todas as atividades referente ao projeto;
-- [ ] Otimização de distribuição e de custos de rotas;
-- [ ] Estrutura de banco de dados relacional;
-- [ ] Tela de BI que mostre produtividade mensal do veiculos (relação entre outputs e inputs);
-- [ ] Tela de BI com evolução dos custos por km de cada rota, filtrando por fábricas;
-- [ ] Tela de BI com evolução dos custos por unidade transportada de cada rota, filtrando por fábricas;
+- [x] Documentação para Sprint 3;
+- [x] Finalização do Dashboard;
+- [x] Finalização de todas as atividades referente ao projeto;
+- [x] Otimização de distribuição e de custos de rotas;
+- [x] Estrutura de banco de dados relacional;
+- [x] Tela de BI que mostre produtividade mensal do veiculos (relação entre outputs e inputs);
+- [x] Tela de BI com evolução dos custos por km de cada rota, filtrando por fábricas;
+- [x] Tela de BI com evolução dos custos por unidade transportada de cada rota, filtrando por fábricas;
 
 
 # Competências desenvolvidas
