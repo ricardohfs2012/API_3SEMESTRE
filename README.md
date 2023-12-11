@@ -47,7 +47,7 @@ Confira abaixo o One Drive com arquivos levantados para o Projeto
  ### Tecnológias Específicas/Apoio
  > Tecnologias utilizadas para entrega 
 - [Power BI](https://app.powerbi.com/groups/me/reports/87a6e750-11aa-4f6b-92f5-cfd3e496937e/ReportSection05d0b037b0e068b6a1cc?experience=power-bi)
-- [Banco de dados em SQL](https://www.alura.com.br/artigos/o-que-e-sql)
+- [Banco de dados em SQL](https://fatecspgov-my.sharepoint.com/:u:/r/personal/gabriella_santos12_fatec_sp_gov_br/Documents/Projeto%20Integrador/3%20Semestre/Backup%20PostGres/Backup1.sql?csf=1&web=1&e=CqN2lx)
 - [Python - Tratamento de Dados Inicial](https://colab.research.google.com/drive/1TDeykkyneoHOq4Prx3DKQm4ypGus7nJo?usp=sharing)
 - [Python - Tratamento de Dados Final](https://colab.research.google.com/drive/1Mw0R2LBrUvp8J8wHB0kgBf_JYFkOErJz?usp=sharing)
 - [Jira Software](https://datalog3.atlassian.net/jira/software/projects/SCRUM/boards/1/timeline?shared=&atlOrigin=eyJpIjoiMTZiOGZlN2NkOWQ0NDgxZjlhNDMxZTlkYWM4MzFlZTAiLCJwIjoiaiJ9)
