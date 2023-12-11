@@ -46,11 +46,11 @@ Confira abaixo o One Drive com arquivos levantados para o Projeto
 
  ### Tecnológias Específicas/Apoio
  > Tecnologias utilizadas para entrega 
-- [Power BI](https://app.powerbi.com/Redirect?action=openreport&context=Annotate&ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=mobile_android&groupObjectId=6018b7fb-ff4c-4333-b759-111986939149&appId=&reportObjectId=eab4ec64-2f3b-474e-a920-f36fbfd6b56f&reportPage=ReportSection&bookmarkGuid=3d5269e0-dc20-48f1-9c95-e1586ab699e8)
+- [Power BI](https://app.powerbi.com/groups/me/reports/87a6e750-11aa-4f6b-92f5-cfd3e496937e/ReportSection05d0b037b0e068b6a1cc?experience=power-bi)
 - [Banco de dados em SQL](https://www.alura.com.br/artigos/o-que-e-sql)
 - [Python](https://site.alura.com.br/artigos/python?utm_term=&utm_campaign=%5BSearch%5D+%5BPerformance%5D+-+Dynamic+Search+Ads+-+Artigos+e+Conte%C3%BAdos&utm_source=adwords&utm_medium=ppc&hsa_acc=7964138385&hsa_cam=11384329873&hsa_grp=111087461203&hsa_ad=645853715422&hsa_src=g&hsa_tgt=dsa-843358956400&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjwpc-oBhCGARIsAH6ote_yvQoYEgSGsCgT38GSu3DXgj5JivyInLyILdMnGCJnA8wzEh240zEaAhUHEALw_wcB)
-- [Jira Software](https://www.atlassian.com/br/software/jira/guides/getting-started/who-uses-jira)
-- [GitHub](https://www.alura.com.br/artigos/o-que-e-git-github?utm_term=&utm_campaign=%5BSearch%5D+%5BPerformance%5D+-+Dynamic+Search+Ads+-+Artigos+e+Conte%C3%BAdos&utm_source=adwords&utm_medium=ppc&hsa_acc=7964138385&hsa_cam=11384329873&hsa_grp=111087461203&hsa_ad=662261334153&hsa_src=g&hsa_tgt=dsa-843358956400&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjwpc-oBhCGARIsAH6ote-YXbb7mq2tCCGns5wCi2B0nmMmnaUaHl6Oj8pY5VBqpSzglZ0PdtIaAkJ6EALw_wcB)
+- [Jira Software](https://datalog3.atlassian.net/jira/software/projects/SCRUM/boards/1/timeline?shared=&atlOrigin=eyJpIjoiMTZiOGZlN2NkOWQ0NDgxZjlhNDMxZTlkYWM4MzFlZTAiLCJwIjoiaiJ9)
+- [GitHub](https://github.com/ricardohfs2012/API_3SEMESTRE.git)
   
 # Cronograma das Sprints
 
