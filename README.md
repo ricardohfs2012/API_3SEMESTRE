@@ -48,7 +48,8 @@ Confira abaixo o One Drive com arquivos levantados para o Projeto
  > Tecnologias utilizadas para entrega 
 - [Power BI](https://app.powerbi.com/groups/me/reports/87a6e750-11aa-4f6b-92f5-cfd3e496937e/ReportSection05d0b037b0e068b6a1cc?experience=power-bi)
 - [Banco de dados em SQL](https://www.alura.com.br/artigos/o-que-e-sql)
-- [Python](https://site.alura.com.br/artigos/python?utm_term=&utm_campaign=%5BSearch%5D+%5BPerformance%5D+-+Dynamic+Search+Ads+-+Artigos+e+Conte%C3%BAdos&utm_source=adwords&utm_medium=ppc&hsa_acc=7964138385&hsa_cam=11384329873&hsa_grp=111087461203&hsa_ad=645853715422&hsa_src=g&hsa_tgt=dsa-843358956400&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjwpc-oBhCGARIsAH6ote_yvQoYEgSGsCgT38GSu3DXgj5JivyInLyILdMnGCJnA8wzEh240zEaAhUHEALw_wcB)
+- [Python - Tratamento de Dados Inicial](https://colab.research.google.com/drive/1TDeykkyneoHOq4Prx3DKQm4ypGus7nJo?usp=sharing)
+- [Python - Tratamento de Dados Final](https://colab.research.google.com/drive/1Mw0R2LBrUvp8J8wHB0kgBf_JYFkOErJz?usp=sharing)
 - [Jira Software](https://datalog3.atlassian.net/jira/software/projects/SCRUM/boards/1/timeline?shared=&atlOrigin=eyJpIjoiMTZiOGZlN2NkOWQ0NDgxZjlhNDMxZTlkYWM4MzFlZTAiLCJwIjoiaiJ9)
 - [GitHub](https://github.com/ricardohfs2012/API_3SEMESTRE.git)
   
